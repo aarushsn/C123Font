@@ -1,0 +1,26 @@
+.heading{
+    background-color: #F5A65B;
+    color: #148523;
+    border-radius: 5px;
+    margin: 17px;
+    font-size: 35px;
+    font-family: 'Chakra Petch', sans-serif;
+    padding: 5px;
+    height: 50px;
+}
+
+body{
+    background-color: #A288E3;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: #E01A4F;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-size: 20px;
+    font-family: 'Chakra Petch', sans-serif;
+}
